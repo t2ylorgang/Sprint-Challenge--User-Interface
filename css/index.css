@@ -31,16 +31,27 @@ footer, header, hgroup, menu, nav, section {
 
 .topnav {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-content: center;
-    margin-bottom: 10px;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+    width: 100%;
+    margin: 20px;
 }
 
-.top-container {
-    width: 800px;
-    align-content: center;
+.home {
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+    width: 100%;
+    margin: 20px;
+}
+
+.topnav a {
+    font-family: 'Rubik';
+    text-decoration: none;
+    color: black;
+    align-items: center;
 }
 
 body {
