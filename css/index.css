@@ -269,3 +269,7 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.about-top {
+    border-bottom: 1px dashed black;
+}

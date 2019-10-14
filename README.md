@@ -1,7 +1,5 @@
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
-Taylor Olson
-
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
 ## Instructions
@@ -36,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+	Semantic HTML is a universally agreed upon set of tags that help to divide the content and structure an html page. Examples include <h1>,<p>,<section>,<footer>,<nav>,<header>.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+	1) display: block; takes up the full width of the page while display: inline only takes up as much space as it needs (space of the content).
+	2) display: block; employs line breaks while display: inline does not.
 
 3. What are the 4 areas of the box model?
 
+	padding, margin, border, content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+	The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+	git allows a team of developers to collaberate on a project in an efficientr, safe, and productive manner. People can copy code or sections of code to their own machine and make edits to it, test it out, add to it, etc. This is helpful because it keeps changes out of the main code file so if someone screws up itn doesn't affect the master copy. Developers can also "push" or "commit" their updated sections of code back into the master and share code with others. It is a very userful tool.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
