@@ -1,5 +1,15 @@
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
+
+***
+
+PLEASE READ!!
+
+I would have had this completed on time I just had some trouble getting used to git and setting it up. I was really slow with it at first. I would have had it done in time if that did not take so long.
+   I believe I have mastered these concepts I just learn a bit slower :) I would be happy to do the re attempt but I also think I can move on as I have a good grasp of git now. Thanks for any consideration!
+
+***
+
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
 ## Instructions

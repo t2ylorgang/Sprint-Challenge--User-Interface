@@ -272,4 +272,54 @@ footer nav a {
 
 .about-top {
     border-bottom: 1px dashed black;
+    margin-bottom: 25px;
+}
+
+.about-text {
+    margin-bottom: 25px;
+}
+
+.about-items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.about-items button {
+    background: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 130px;
+    height: 45px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin-top: 15px;
+}
+
+.item-1 {
+    border-bottom: 1px dashed black;
+    margin-top: 15px;
+}
+
+.item-2 {
+    border-bottom: 1px dashed black;
+    margin-top: 15px;
+}
+
+.item-3 {
+    border-bottom: 1px dashed black;
+    margin-top: 15px;
+}
+
+.item-4 {
+    border-bottom: 1px dashed black;
+    margin-top: 15px;
+}
+
+.goodbye {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
